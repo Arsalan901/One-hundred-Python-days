@@ -1,2 +1,2 @@
 # One-hundred-Python-days
-I will practice here
+I will practice here every day
